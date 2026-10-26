@@ -1,0 +1,64 @@
+place_modern,latitude,longitude,precision,source,bank_1932,km_from_river_line,note,status,n_as_crossing_place,n_as_origin
+Balta,47.94,29.62194,town,Wikipedia,left (Soviet),46.0,,ok,0,1
+Balti,47.76278,27.92833,town,GeoNames,right (Romanian),50.2,Bel'tsy,ok,0,2
+Beloci,47.88694,28.97806,village,GeoNames,left (Soviet),1.2,Beloch',ok,5,0
+Bender,46.83139,29.47667,town,GeoNames,right (Romanian),1.3,Bendery,ok,3,24
+Bessarabia,,,region,,,,"a region, not a place",region,0,16
+Bucharest,44.4353,26.098,city,Natural Earth populated places (10m),,,,ok,0,2
+Butor,47.042245,29.405277,village,GeoNames,left (Soviet),1.8,,ok,2,0
+Butuceni,47.52915,29.02908,village,GeoNames,left (Soviet),0.2,"Botushany, today Butuceni (Russian Бутучаны, formerly Ботушаны), Rîbnița district",ok,1,0
+Cainari,46.681963,29.048334,town,GeoNames,right (Romanian),36.3,"'Kainarskii uezd': Căinari, then in Romanian Bessarabia (Tighina county), today Căușeni district",ok,0,1
+Camenca,48.03222,28.69889,town,GeoNames,left (Soviet),0.9,Kamenka,ok,3,2
+Caragas,46.78083,29.68278,village,GeoNames,left (Soviet),0.7,Karagash,ok,17,0
+Chaplyginsky,53.233,39.967,district,Wikipedia,,,"Ranenburg raion: placed at Ranenburg (Chaplygin), the district town",ok,0,1
+Chisinau,47.00889,28.85917,city,GeoNames,right (Romanian),18.9,Kishinev,ok,0,15
+Cioburciu,46.685,29.7475,village,Wikipedia,left (Soviet),2.0,"Chobruchi (Russian Чобручи), Slobozia district; checked October 2026",ok,144,105
+Cocieri,47.30167,29.1175,village,GeoNames,left (Soviet),1.1,Kuchery,ok,45,1
+Constanta,44.2027,28.61,city,Natural Earth populated places (10m),,,,ok,0,1
+Corotna,46.63306,29.85611,village,GeoNames,left (Soviet),4.3,,ok,75,80
+Criuleni,47.21333,29.15833,town,GeoNames,right (Romanian),0.9,Kriuliany,ok,0,1
+Delacau,47.12806,29.29944,village,Wikipedia,left (Soviet),0.6,"Delakeu (Russian Делакеу), Grigoriopol district",ok,26,26
+Dorotcaia,47.17222,29.20333,village,GeoNames,left (Soviet),1.0,Dorotskoe,ok,4,4
+Dubasari,47.26556,29.16667,town,GeoNames,left (Soviet),2.2,Dubossary,ok,1,0
+Goian,47.37778,29.16222,village,GeoNames,left (Soviet),1.6,Goiany (left-bank record; another Goian lies near Chișinău),ok,2,1
+Grigoriopol,47.15389,29.3,town,GeoNames,left (Soviet),1.6,,ok,2,0
+Hlinaia,46.64667,29.80861,village,Wikipedia,left (Soviet),3.1,"Glinnoe (Russian Глиное), Slobozia district, next to Chobruchi and Korotnoe; not the Hlinaia of Grigoriopol district",ok,64,68
+Hradenytsi,46.59667,30.00222,village,GeoNames,left (Soviet),9.3,"Gradenitsy, Odesa oblast",ok,0,1
+Hrusca,48.12222,28.55111,village,Wikipedia,left (Soviet),0.6,"Grushka (Russian Грушка), Camenca district",ok,1,0
+Hyderym,47.71333,28.97861,village,Wikipedia,left (Soviet),0.0,"Giderim, today Ghidirim (Russian Гидирим), Rîbnița district",ok,8,5
+Jura,47.5175,29.0425,village,GeoNames,left (Soviet),0.5,Zhury,ok,2,0
+Khmelnytskyi,49.4249,27.0015,district,Natural Earth populated places (10m),,,"Proskurov okrug: placed at Proskurov (Khmelnytskyi), the okrug town",ok,0,1
+Kyiv,,,region,,,,"Ianishevka, Kiev oblast: village not identified; the modern name 'Kyiv' stands for the oblast",unresolved,0,1
+Mar'yanivka,,,village,,,,Mar'ianovka of Grossulovo raion: GeoNames lists eight Mar'ianivkas in Odesa oblast and none can be matched to Grossulovo raion with confidence,unresolved,0,1
+"Marx, Saratov",51.717,46.75,town,Wikipedia,,,Marxstadt,ok,0,1
+Mihailovca,47.48444,29.11833,village,GeoNames,left (Soviet),1.3,Mikhalevka (GeoNames variant); Rîbnița district,ok,6,0
+Molovata,47.33861,29.09056,village,Wikipedia,left (Soviet),0.8,"Malovata of Dubossary raion (Soviet bank), today Molovata Nouă; old Molovata faces it across the river",ok,24,34
+Moscow,55.7541,37.6136,city,Natural Earth populated places (10m),,,,ok,0,2
+Nezavertailovca,46.59694,29.9375,village,GeoNames,left (Soviet),5.5,,ok,22,12
+Parcani,46.85083,29.515,village,GeoNames,left (Soviet),1.5,"Parkany, between Tiraspol and Bendery",ok,21,0
+Podoima,47.99806,28.77667,village,Wikipedia,left (Soviet),1.8,"Podoima commune, Camenca district",ok,4,4
+Pohreby,47.18111,29.16694,village,GeoNames,left (Soviet),0.7,"Pogreby, today Pohrebea",ok,1,0
+Popencu,47.599884,29.006401,village,GeoNames,left (Soviet),0.5,Popenki,ok,1,1
+Rascova,47.95667,28.82389,village,GeoNames,left (Soviet),0.3,Rashkov,ok,5,0
+Rezina,47.74833,28.9675,town,GeoNames,right (Romanian),0.7,,ok,2,2
+Roghi,47.32194,29.13972,village,GeoNames,left (Soviet),0.8,Rogi,ok,3,0
+Romania,,,region,,,,"a country, not a place",region,0,1
+Rybnitsa,47.76806,29.01,town,GeoNames,left (Soviet),2.0,,ok,19,8
+Shershentsi,47.98806,29.00861,village,GeoNames,left (Soviet),12.5,Kodyma district,ok,0,1
+Slobozia,46.72917,29.70444,town,GeoNames,left (Soviet),0.5,Slobodzeia,ok,56,33
+Smalena,47.75806,29.07444,village,GeoNames,left (Soviet),6.8,Shmalena,ok,3,1
+Speia,46.98278,29.32556,village,GeoNames,left (Soviet),0.6,left-bank record (GeoNames also lists a Speia 3 km NW labelled Anenii Noi),ok,86,65
+Stroiesti,47.88944,28.93306,village,GeoNames,left (Soviet),0.5,Stroiintsy,ok,14,8
+Sucleia,46.82361,29.66444,village,GeoNames,left (Soviet),1.5,,ok,3,3
+Sverdlovsk okrug,56.852,60.598,district,Natural Earth populated places (10m),,,"placed at Sverdlovsk (Yekaterinburg), the okrug town",ok,0,1
+Tabuleuca,47.404719,29.106057,village,GeoNames,left (Soviet),1.1,"Tsybulevka, today Ţîbuleuca",ok,9,0
+Teiu,46.95722,29.39639,village,GeoNames,left (Soviet),1.3,Teia,ok,11,11
+Telita,46.95694,29.30667,village,GeoNames,right (Romanian),0.7,"Telitsa, on the Romanian bank; the crossing was by the island opposite it",ok,10,1
+Tiraspol,46.8425,29.62833,town,GeoNames,left (Soviet),0.9,,ok,17,3
+Tirnauca,46.81222,29.55444,village,GeoNames,left (Soviet),2.0,Ternovka,ok,35,24
+Tocmagiu,46.944621,29.378218,village,GeoNames,left (Soviet),0.8,Tokmadzhei (Tokmazeia),ok,1,0
+Ufa,54.7919,56.0381,city,Natural Earth populated places (10m),,,,ok,0,2
+Umans'kyi,48.7543,30.2109,district,Natural Earth populated places (10m),,,"Umanskii raion: placed at Uman, the district town",ok,0,2
+Voznesens'k,47.5504,31.3333,town,Natural Earth populated places (10m),,,,ok,1,0
+Yerzhovo,47.80472,29.0075,village,GeoNames,left (Soviet),0.2,"Erzhovo, today Hîrjău",ok,2,0
+Zahnitkiv,48.0475,28.88694,village,GeoNames,left (Soviet),10.4,Zagnitkovo; the one in Kodyma district (another lies 6 km NW in Vinnytsia oblast),ok,0,1
