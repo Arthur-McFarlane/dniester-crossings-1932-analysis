@@ -67,7 +67,7 @@ python python/check_regressions.py
 
 ## Authorship
 
-The dataset was compiled by Arthur McFarlane from the archival file ANA, f. A-49, inv. 1, d. 2084, and checked against photographs of every folio. The research questions, the choice of models and the interpretation are his. The code was written with the help of an AI assistant (Claude, by Anthropic), building on an earlier regression analysis written with a colleague. Its results were checked against an independent re-implementation (`python/check_regressions.py`).
+I compiled the dataset from the archival file ANA, f. A-49, inv. 1, d. 2084, and checked every record against photographs of the file. I chose the research questions and the models, and the interpretation is mine. I wrote the code with the help of an AI assistant (Claude, by Anthropic), and checked its results against an independent re-implementation (python/check_regressions.py).
 
 ## Licence
 
