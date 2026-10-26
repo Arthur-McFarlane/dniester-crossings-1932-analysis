@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it and the dataset."
+title: "Crossings of the Dniester, 1932: analysis code and maps"
+authors:
+  - family-names: McFarlane
+    given-names: Arthur
+    affiliation: University of Oxford
+version: 1.0.0
+license: MIT
+references:
+  - type: dataset
+    title: "Crossings of the Soviet–Romanian border on the Dniester, February–June 1932"
+    authors:
+      - family-names: McFarlane
+        given-names: Arthur
+    doi: 10.5281/zenodo.23299300
+    publisher:
+      name: Zenodo
+    year: 2026
+  - type: article
+    title: "Crossing the River Between Worlds"
+    authors:
+      - family-names: McFarlane
+        given-names: Arthur
+    journal: "Contemporary European History"
+    volume: 35
+    year: 2026
+    doi: 10.1017/S0960777326101969
