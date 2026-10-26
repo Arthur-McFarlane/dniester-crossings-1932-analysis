@@ -1,5 +1,7 @@
 # Crossings of the Dniester, 1932: analysis code and maps
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23671593.svg)](https://doi.org/10.5281/zenodo.23671593)
+
 Code and figures for the analysis of 822 people who crossed, or tried to cross, the Dniester between the Moldavian ASSR and Romanian Bessarabia between 28 February and 26 June 1932.
 
 The dataset itself is published on Zenodo, with its sources, method and codebook:
